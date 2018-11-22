@@ -1,6 +1,9 @@
 /vendor/
 composer.lock
+.ide
 .ide/
+/ide/
 .git/
 /.ide/
 /.ide/**/*.*
+.gitignore
